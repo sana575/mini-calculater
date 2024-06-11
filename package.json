@@ -1,0 +1,21 @@
+{
+  "name": "01_sana66i_mini_calculater",
+  "version": "1.0.2",
+  "description": "this is a very simple mini calculater",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sana",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.13"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
